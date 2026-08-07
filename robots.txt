@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-7114vt.cuansalam.sbs/sitemap.xml
